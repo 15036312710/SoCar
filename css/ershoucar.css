@@ -1,0 +1,27 @@
+.line{
+	height: 1px; 
+	background-color: #dcdcdc;
+}
+.main{
+	height: 495px;
+	width: 955px;
+	margin: 0 auto;
+}
+.main h1{
+	text-align: center;
+	padding-top: 50px;
+	color: #444444;
+	padding-bottom: 40px;
+	font-size: 24px;
+}
+.main div{
+	margin-bottom: 30px;
+}
+.main div h3{
+	color: rgb(255,140,0);
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.main div p{
+	font-size: 14px;
+}

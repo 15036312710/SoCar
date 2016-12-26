@@ -1,0 +1,40 @@
+.main{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.main h2{
+	margin-bottom: 30px;
+	font-weight: bold;
+}
+.main div{
+	margin-bottom: 30px;
+}
+.main span{
+	display: inline-block;
+	width: 55px;
+	height: 30px;
+	border: 1px solid #666666;
+	text-align: center;
+	line-height: 33px;
+	font-weight: bold;
+	color: rgb(102,102,102);
+	font-size: 18px;
+	margin-right: 20px;
+}
+.main a{
+	font-size: 14px;
+	color: rgb(102,102,102);
+	padding-right: 10px;
+}
+.main a:hover{
+	color: #ff5517;
+}
+.main div .B_car{
+	float: left;
+}
+.main div .chang{
+	width: 980px;
+	float: left;
+	line-height: 25px;
+	margin-bottom: 0px;
+}
